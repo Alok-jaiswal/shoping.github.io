@@ -19,6 +19,7 @@ export const Navbar = () => {
             About
           </Nav.Link>
         </Nav>
+        {/* showing button */}
         {cartQuantity>0 &&(
         <Button
           style={{ width: "3rem", height: "3rem", position: "relative" }}
