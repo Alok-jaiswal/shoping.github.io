@@ -1,0 +1,21 @@
+[{
+    "id":1,
+    "name":"Watch",
+    "price":10.99,
+    "imgUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbmyhdfl-FFlW_YtZpFXeuSKhvg_wLUS9hZA&usqp=CAU"
+},{
+    "id":2,
+    "name":"Watch",
+    "price":17.99,
+    "imgUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4R6rhDM8Agc_8yYulXDaELFd1AZdvZXUuRA&usqp=CAU"
+},{
+    "id":3,
+    "name":"Watch",
+    "price":12.99,
+    "imgUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFe3XN6Tw818shdsTeoLLp7ZqYjMe5vdjXuw&usqp=CAU"
+},{
+    "id":4,
+    "name":"Watch",
+    "price":14.99,
+    "imgUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAeZ_s9rDDmqU1hsUua3mElvmD0HsSOIKHDA&usqp=CAU"
+}]
